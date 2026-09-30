@@ -45,9 +45,9 @@ The table below lists leading commercial SaaS DMARC platforms sorted by **Compan
 
 ## 🔓 Open-Source GitHub Projects ⚡
 
-Below is a curated list of open-source DMARC report parsers, DNS validators, and email authentication tools sorted by **GitHub Star Count (descending)**: ⭐
+Below is a curated list of open-source DMARC report parsers, DNS validators, and email authentication tools sorted by **GitHub Stars_Count (descending)**: ⭐
 
-| Repository 📦 | GitHub Stars ⭐ | Language / Tech Stack 💻 | Project Description & Capabilities 🛠️ |
+| Repository 📦 | GitHub_Stars ⭐ | Language / Tech Stack 💻 | Project Description & Capabilities 🛠️ |
 | :--- | :--- | :--- | :--- |
 | **[chenjj/espoofer](https://github.com/chenjj/espoofer)** | [![Stars](https://img.shields.io/github/stars/chenjj/espoofer?style=social&color=white)](https://github.com/chenjj/espoofer/stargazers) | Python 🐍 | Testing tool designed to evaluate email spoofing vulnerabilities and bypass mechanisms in SPF, DKIM, and DMARC implementations. |
 | **[domainaware/parsedmarc](https://github.com/domainaware/parsedmarc)** | [![Stars](https://img.shields.io/github/stars/domainaware/parsedmarc?style=social&color=white)](https://github.com/domainaware/parsedmarc/stargazers) | Python / CLI 🐍 | De facto open-source DMARC report parser. Ingests aggregate (RUA) and forensic (RUF) reports via IMAP, Gmail API, MS Graph API, or directory files, exporting data to Elasticsearch, OpenSearch, Splunk, or PostgreSQL. |
@@ -117,7 +117,7 @@ Contributions are welcome! If you know of an awesome DMARC management tool, repo
 
 1. **Fork** the repository. 🍴
 2. Add your entry to either the **SaaS** or **Open-Source** table following the established column schema and sorting rules. 📝
-3. For open-source tools, include the standard GitHub star badge:  
+3. For open-source tools, include the standard GitHub Stars_Badge:  
    `[![Stars](https://img.shields.io/github/stars/username/reponame?style=social&color=white)](https://github.com/username/reponame/stargazers)`
 4. Open a **Pull Request** with a brief summary of the added software. 🚀
 
